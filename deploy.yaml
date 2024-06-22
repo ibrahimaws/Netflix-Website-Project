@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: website
-        image: ibrahimaws/websiteimagehello
+        image: ibsearchtrack/websiteimagehelloworld
         ports:
         - containerPort: 80
